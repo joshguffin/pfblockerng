@@ -22,3 +22,11 @@
 127.0.0.1 cdn.hbbtv.smartclip.net
 127.0.0.1 scheduler.hbbtv.smartclip.net
 127.0.0.1 cdnwc.cellnextelecom.net
+
+# from http://www.tomshardware.com/news/lg-smart-tv-hdtv-doctorbeet-privacy,25156.html
+127.0.0.1 ad.lgappstv.com
+127.0.0.1 yumenetworks.com
+127.0.0.1 smartclip.net
+127.0.0.1 smartclip.com
+127.0.0.1 smartshare.lgtvsdp.com
+127.0.0.1 ibis.lgappstv.com
